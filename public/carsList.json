@@ -1,0 +1,20 @@
+[
+        {
+            "id": 1,
+            "name": "Tesla Model S Bluefire",
+            "color": "Bluefire",
+            "imageURL": "http://localhost:3000/tesla-fans-schweiz-2swaWy4Xhb0-unsplash.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Porsche 718 Spyder",
+            "color": "Yellow",
+            "imageURL": "http://localhost:3000/dima-panyukov-huKAyqLxBX0-unsplash.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Mercedes-Benz E400 Coupe AMG",
+            "color": "White",
+            "imageURL": "http://localhost:3000/alex-richard-VRf8BUHXomA-unsplash.jpg"
+        }
+]
